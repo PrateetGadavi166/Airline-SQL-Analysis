@@ -1,24 +1,24 @@
-# ✈️ Airline Traffic Analysis (SQL Project)
+✈️ Airline Traffic Analysis (SQL Project)
 
-## 📁 Project Overview
+📁 Project Overview
 This project analyzes real-world airline and city traffic data using SQL.  
 The goal is to uncover patterns in passenger movement, freight/mail volume, airline performance, and city connectivity.
 
 ---
 
-## 📊 Datasets Used
-- **airline_stats.csv** – Airline-wise performance metrics (passengers, load factor, freight, mail)
-- **city_traffic.csv** – Monthly city-to-city traffic data (pax, freight, mail)
+📊 Datasets Used
+- airline_stats.csv– Airline-wise performance metrics (passengers, load factor, freight, mail)
+- city_traffic.csv– Monthly city-to-city traffic data (pax, freight, mail)
 
 ---
 
-## 🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 - MySQL Workbench
 - SQL (Joins, CTEs, Views, Aggregations, Window Functions)
 
 ---
 
-## 🔍 Key Analysis Performed
+🔍 Key Analysis Performed
 - Top 5 city pairs by:
   - ✈️ Passenger volume
   - 📦 Freight movement
@@ -31,14 +31,15 @@ The goal is to uncover patterns in passenger movement, freight/mail volume, airl
 
 ---
 
-## 📌 Project Files
-- `airline_project.sql` – Full SQL query file
-- `README.md` – This project summary
+📌 Project Files
+- airline_project.sql – Full SQL query file
+- README.md – This project summary
 
 ---
 
-## 💼 Future Add-on
+💼 Future Add-on
 - 🔄 Power BI dashboard to visualize these insights
+
 
 
 
