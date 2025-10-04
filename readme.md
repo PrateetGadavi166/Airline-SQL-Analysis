@@ -46,10 +46,11 @@ The goal is to uncover patterns in:
 ---
 
 ## 💼 Future Add-on  
-- [ ] 🔄 Build **Power BI Dashboard** for visualization  
-- [ ] 📈 Create **interactive charts** for airline KPIs  
-- [ ] 🚀 Optimize SQL queries for **large datasets**  
+- 🔄 Build **Power BI Dashboard** for visualization  
+- 📈 Create **interactive charts** for airline KPIs  
+- 🚀 Optimize SQL queries for **large datasets**  
 
 ---
 
 > ✨ *This project demonstrates advanced SQL querying, data exploration, and potential integration with BI tools.*
+
